@@ -210,7 +210,7 @@ Based on canonical markers:
 ```bibtex
 @article{Yang2026,
   title={Single-nucleus transcriptomics reveals Müller glia-driven non-cell-autonomous mechanisms in CLRN1-associated retinal degeneration},
-  author={Yang, David O and [...]},
+  author={Yang, Dongshan and [...]},
   journal={Journal of Clinical Investigation},
   year={2026},
   doi={[will be added]}
