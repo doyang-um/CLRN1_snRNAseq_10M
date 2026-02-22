@@ -8,7 +8,7 @@ Complete analysis code and results for:
 
 **"Single-nucleus transcriptomics reveals Müller glia-driven non-cell-autonomous mechanisms in CLRN1-associated retinal degeneration"**
 
-David O. Yang, et al.  
+Dongshan Yang, et al.  
 *Journal of Clinical Investigation* (2026)
 
 ## Experimental Design
@@ -219,7 +219,7 @@ Based on canonical markers:
 
 ## Contact
 
-- **David O. Yang, M.D., Ph.D.**
+- **Dongshan Yang, Ph.D.**
 - Email: doyang@umich.edu
 - Institution: University of Michigan
 - **Issues**: https://github.com/davidoyang/CLRN1_snRNAseq_GitHub/issues
