@@ -1,0 +1,27 @@
+# Large data files - DO NOT UPLOAD
+*.rds
+*.RDS
+*.h5
+*.h5ad
+*.h5seurat
+*.tar.gz
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# System files
+.DS_Store
+*~
+Thumbs.db
+
+# Slurm output
+slurm-*.out
+*.err
+*.log
+
+# Temporary
+*.tmp
+temp/

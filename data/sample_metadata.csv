@@ -1,0 +1,7 @@
+sample_id,genotype,age_months,tissue,region,sex,sequencing_batch
+WT_10M_1,WT,10,retina,visual_streak,male,batch1
+WT_10M_2,WT,10,retina,visual_streak,male,batch1
+WT_10M_3,WT,10,retina,visual_streak,female,batch2
+KO_10M_1,KO,10,retina,visual_streak,male,batch1
+KO_10M_2,KO,10,retina,visual_streak,female,batch2
+KO_10M_3,KO,10,retina,visual_streak,male,batch2

@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0044557","relaxation of smooth muscle","2/14","12/18860",0.166666666666667,224.523809523809,21.1103547602488,3.36288732601401e-05,0.0141913845157791,0.00888510230346858,"SLC8A1/PRKG1",2

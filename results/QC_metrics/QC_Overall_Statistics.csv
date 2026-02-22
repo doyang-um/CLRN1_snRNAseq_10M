@@ -1,0 +1,16 @@
+"Metric","Value"
+"Total Nuclei",6542
+"WT Nuclei",3484
+"KO Nuclei",3058
+"Mean UMI (WT)",1985.1
+"Mean UMI (KO)",2692.5
+"Median UMI (WT)",1175.5
+"Median UMI (KO)",1552.5
+"Mean Genes (WT)",1015
+"Mean Genes (KO)",1279
+"Median Genes (WT)",759
+"Median Genes (KO)",952
+"Mean % MT (WT)",0.38
+"Mean % MT (KO)",0.41
+"Median % MT (WT)",0.11
+"Median % MT (KO)",0.12

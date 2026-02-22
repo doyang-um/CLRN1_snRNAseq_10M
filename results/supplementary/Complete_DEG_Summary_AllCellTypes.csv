@@ -1,0 +1,8 @@
+"Cell_Type","Total_Nuclei","DEGs_padj05","Top_Gene","Top_log2FC"
+"Rods",3679,232,"CWF19L2",-1.83
+"Cones",268,68,"TENM2",-5.76
+"Amacrine",986,200,"HSP90AB1",1.79
+"RGC",287,41,"ENSOCUG00000021647",2.36
+"Horizontal",174,45,"GALNTL6",-1.96
+"Bipolar",197,0,"CWF19L2",-1.94
+"Müller Glia",172,1,"CTNNA2",-1.78
