@@ -9,7 +9,7 @@ Complete analysis code and results for:
 **"Single-nucleus transcriptomics reveals Müller glia-driven non-cell-autonomous mechanisms in CLRN1-associated retinal degeneration"**
 
 Dongshan Yang, et al.  
-*Journal of Clinical Investigation* (2026)
+*xxx" (2026)
 
 ## Experimental Design
 
@@ -87,8 +87,8 @@ CLRN1_snRNAseq_GitHub/
 
 ### Raw Data
 
-- **GEO Accession**: GSE[XXXXX]
-- **URL**: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE[XXXXX]
+- **GEO Accession**: GSE320260 
+- **URL**: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE320260
 
 Raw FASTQ files, processed count matrices, and Seurat objects available on GEO.
 
@@ -128,7 +128,7 @@ BiocManager::install(c(
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/davidoyang/CLRN1_snRNAseq_GitHub.git
+git clone https://github.com/doyang-um/CLRN1_snRNAseq_10M
 cd CLRN1_snRNAseq_GitHub
 
 # Install R packages (if needed)
@@ -211,7 +211,7 @@ Based on canonical markers:
 @article{Yang2026,
   title={Single-nucleus transcriptomics reveals Müller glia-driven non-cell-autonomous mechanisms in CLRN1-associated retinal degeneration},
   author={Yang, Dongshan and [...]},
-  journal={Journal of Clinical Investigation},
+  journal={will be added},
   year={2026},
   doi={[will be added]}
 }
@@ -222,7 +222,7 @@ Based on canonical markers:
 - **Dongshan Yang, Ph.D.**
 - Email: doyang@umich.edu
 - Institution: University of Michigan
-- **Issues**: https://github.com/davidoyang/CLRN1_snRNAseq_GitHub/issues
+- **Issues**: https://github.com/doyang-um/CLRN1_snRNAseq_10MGitHub/issues
 
 ## License
 
