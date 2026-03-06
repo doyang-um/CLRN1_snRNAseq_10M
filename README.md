@@ -6,7 +6,7 @@
 
 Complete analysis code and results for:
 
-**"Single-nucleus transcriptomics reveals Müller glia-driven non-cell-autonomous mechanisms in CLRN1-associated retinal degeneration"**
+**"Müller Glia Adherens Junction Defects Trigger Retinal Degeneration: Single-Nucleus Analysis of a USH3A Rabbit Model"**
 
 Dongshan Yang, et al.  
 *xxx" (2026)
@@ -209,7 +209,7 @@ Based on canonical markers:
 ## Citation
 ```bibtex
 @article{Yang2026,
-  title={Single-nucleus transcriptomics reveals Müller glia-driven non-cell-autonomous mechanisms in CLRN1-associated retinal degeneration},
+  title={Müller Glia Adherens Junction Defects Trigger Retinal Degeneration: Single-Nucleus Analysis of a USH3A Rabbit Model},
   author={Yang, Dongshan and [...]},
   journal={will be added},
   year={2026},
