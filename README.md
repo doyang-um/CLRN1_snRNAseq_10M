@@ -46,13 +46,13 @@ Dongshan Yang, et al.
 
 | Cell Type | Nuclei Count | DEGs (padj<0.05) | Direction |
 |-----------|--------------|------------------|-----------|
-| Müller Glia | ~800 | 1 | ↓ CTNNA2 |
+| Müller Glia | ~200 | 1 | ↓ CTNNA2 |
 | Rods | ~3,500 | 232 | Mixed |
-| Cones | ~600 | 68 | Mostly ↓ |
-| Amacrine | ~900 | 200 | Mostly ↑ |
-| Horizontal | ~300 | 45 | Mixed |
-| Bipolar | ~300 | 0 | - |
-| RGC | ~150 | 41 | Mixed |
+| Cones | ~300 | 68 | Mostly ↓ |
+| Amacrine | ~1000 | 200 | Mostly ↑ |
+| Horizontal | ~200 | 45 | Mixed |
+| Bipolar | ~200 | 0 | - |
+| RGC | ~300 | 41 | Mixed |
 
 ## Repository Structure
 ```
